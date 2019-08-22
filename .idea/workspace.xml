@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b133ba72-412f-4495-addf-0b3b82b9f017" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Django_projects/mysite/polls/templates/admin/basesite.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Django_projects/mysite/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/Django_projects/mysite/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Django_projects/mysite/mysite/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Django_projects/mysite/mysite/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Django_projects/mysite/polls/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/Django_projects/mysite/polls/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Django_projects/mysite/polls/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/Django_projects/mysite/polls/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Django_projects/mysite/polls/templates/polls/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Django_projects/mysite/polls/templates/polls/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Django_projects/mysite/polls/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/Django_projects/mysite/polls/tests.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Django_projects/mysite/polls/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/Django_projects/mysite/polls/views.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -222,15 +214,6 @@
               <item name="mysite" type="462c0819:PsiDirectoryNode" />
               <item name="polls" type="462c0819:PsiDirectoryNode" />
               <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="admin" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="djangoprojects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="djangoprojects" type="462c0819:PsiDirectoryNode" />
-              <item name="Django_projects" type="462c0819:PsiDirectoryNode" />
-              <item name="mysite" type="462c0819:PsiDirectoryNode" />
-              <item name="polls" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
               <item name="polls" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -270,12 +253,12 @@
       <option name="presentableId" value="Default" />
       <updated>1566482794176</updated>
       <workItem from="1566482796435" duration="338000" />
-      <workItem from="1566492041004" duration="6104000" />
+      <workItem from="1566492041004" duration="6609000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6442000" />
+    <option name="totallyTimeSpent" value="6947000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="173" y="60" width="1400" height="916" extended-state="0" />

@@ -1,2 +1,3 @@
-# djangoprojects
-My django projects go here!!
+# Django Projects
+
+Creating a basic Polls app in Django/Python 
